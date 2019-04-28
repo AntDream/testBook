@@ -1,1 +1,6 @@
-# First Chapter
+# First Chapte
+
+This is zhe first chapter！
+
+
+
