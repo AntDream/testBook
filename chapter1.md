@@ -1,6 +1,4 @@
 # First Chapte
 
-This is zhe first chapter！
-
-
+This is zhe first chapter.
 
